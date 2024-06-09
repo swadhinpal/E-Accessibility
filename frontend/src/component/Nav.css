@@ -1,0 +1,25 @@
+.nav-links {
+    display: flex;
+    /* text-align: center;
+    border: 0px solid;
+    margin: auto;
+    width: 30%;
+    padding: 5px; */
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+      
+}
+
+.nav-link {
+    color: rgb(0, 12, 12); /* Set link color to white */
+    /*text-decoration: none; /* Remove underline */
+    margin-right: 10px; /* Add some space between the links */
+    
+}
+
+.nav-link p{
+    text-align: center;
+    font-size: larger;
+}
+
